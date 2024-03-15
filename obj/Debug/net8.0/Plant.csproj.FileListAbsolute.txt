@@ -1,0 +1,11 @@
+C:\Users\korya\source\repos\Plant\Plant\bin\Debug\net8.0\Plant.deps.json
+C:\Users\korya\source\repos\Plant\Plant\bin\Debug\net8.0\Plant.dll
+C:\Users\korya\source\repos\Plant\Plant\bin\Debug\net8.0\Plant.pdb
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\Plant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\Plant.AssemblyInfoInputs.cache
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\Plant.AssemblyInfo.cs
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\Plant.csproj.CoreCompileInputs.cache
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\Plant.dll
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\refint\Plant.dll
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\Plant.pdb
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\ref\Plant.dll

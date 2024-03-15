@@ -1,0 +1,12 @@
+C:\Users\korya\source\repos\Plant\Plant\bin\Debug\net8.0\PlantLib.deps.json
+C:\Users\korya\source\repos\Plant\Plant\bin\Debug\net8.0\PlantLib.dll
+C:\Users\korya\source\repos\Plant\Plant\bin\Debug\net8.0\PlantLib.pdb
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\PlantLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\PlantLib.AssemblyInfoInputs.cache
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\PlantLib.AssemblyInfo.cs
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\PlantLib.csproj.CoreCompileInputs.cache
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\PlantLib.dll
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\refint\PlantLib.dll
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\PlantLib.pdb
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\ref\PlantLib.dll
+C:\Users\korya\source\repos\Plant\Plant\obj\Debug\net8.0\PlantLib.sourcelink.json
